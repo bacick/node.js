@@ -12,7 +12,7 @@ function isPrime(num) {
     return num > 1;
   }
   
-  // Bruteforce
+ 
   function getPrimesFor(i, num) {
     const primes = [];
     for (i; i <= num; i++) {
